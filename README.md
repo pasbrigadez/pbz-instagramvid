@@ -3,7 +3,7 @@
 Respect Our Works</b>
 
 How To Use:<br/>
-  python instagramvid.py -u=url -o=output
+  python instagramvid.py -u=url -o=output<br/>
 Example:<br/>
   python instagramvid.py -u=https://www.instagram.com/p/BhI2DWNFe14/?taken-by=bazitcreativepresent -o=video.mp4
   

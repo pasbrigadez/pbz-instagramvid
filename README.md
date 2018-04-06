@@ -1,5 +1,6 @@
 # pbz-instagramvid
-<b>Made by PasoendanBrigadeZ<br/>
+<b>|-Instagram Video Downloader-|<br/>
+Made by PasoendanBrigadeZ<br/>
 Respect Our Works</b>
 
 How To Use:<br/>

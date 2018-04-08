@@ -1,10 +1,12 @@
-# |- PBZ Instagram Video Downloader -|
-<b>Made by PasoendanBrigadeZ ( https://www.facebook.com/pasbrigadez/ )<br/>
-Respect Our Works</b>
+## |- PBZ Instagram Video Downloader -|
 
-How To Use:<br/>
-  python instagramvid.py -u=url -o=output<br/>
-Example:<br/>
-  python instagramvid.py -u=https://www.instagram.com/p/BhI2DWNFe14/?taken-by=bazitcreativepresent -o=video.mp4
-  
-File downloaded into Downloaded Folder
+Made by [PasoendanBrigadeZ](https://www.facebook.com/pasbrigadez/)
+Respect Our Works
+
+Usage:
+`python instagramvid.py -u URL -o OUTPUT`
+
+Example:
+`python instagramvid.py -u "https://www.instagram.com/p/BhI2DWNFe14" -o "video.mp4"`
+
+File downloaded into **Downloaded** directory.
